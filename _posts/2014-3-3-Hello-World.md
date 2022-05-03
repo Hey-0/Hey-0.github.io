@@ -2,8 +2,8 @@
 layout: post
 title: 첫번째 게시물!!
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+#깃허브 블로그 포스팅 테스트
+##야호!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
