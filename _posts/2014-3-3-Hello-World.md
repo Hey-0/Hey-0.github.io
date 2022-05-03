@@ -1,10 +1,17 @@
 ---
 layout: post
-title: 첫번째 게시물!!
+title: [텍스트 마이닝 공부]텍스트 마이닝(text mining)이란? 
 ---
-#깃허브 블로그 포스팅 테스트
-##야호!
+텍스트 마이닝이란?
+텍스트 자료로 부터 유용한 정보를 추출하여 분석하기 위한 도구
+텍스트 데이터로 부터 의미있는 정보를 이끌어 내는 과정
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+텍스트 마이닝 방법 
+-워드 클라우드 : 주요 키워드 추출
+-군집분석: 유사 단어들 간의 군집 분석
+-네트워크 분석: 연관 단어 분석
+-토픽분석 등
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+텍스트 분석의 배경
+sns 등장 이후 텍스트 데이터 양이 기하 급수적으로 증가
+총 데이터의 80%는 비정형 데이터 
