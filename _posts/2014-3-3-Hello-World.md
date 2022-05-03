@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [텍스트 마이닝 공부]텍스트 마이닝(text mining)이란? 
+title: "[텍스트 마이닝 공부]텍스트 마이닝(text mining)이란? "
 ---
 
 텍스트 마이닝이란?  
